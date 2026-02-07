@@ -10,7 +10,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aadi-web-op&theme=tokyonight)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+ML+Developer;BTech+CSE+Student;Open+Source+Learner;Always+Building&center=true&width=500)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=9AE6B4&center=true&vCenter=true&width=900&lines=AI+ML+Developer;BTech+CSE+Student;Web+Developer;Team+Lead+%26+Project+Builder;Hackathon+Winner;Perfectionist;Always+Building+Cool+Stuff)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
