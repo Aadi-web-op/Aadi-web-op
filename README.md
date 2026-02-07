@@ -4,13 +4,7 @@
   <img alt="snake animation" src="https://github.com/Aadi-web-op/Aadi-web-op/blob/output/github-snake.svg">
 </picture>
 
-![Aaradhya GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadi-web-op&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi-web-op&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aadi-web-op&theme=tokyonight&hide_border=true)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=9AE6B4&center=true&vCenter=true&width=900&lines=AI+ML+Developer;BTech+CSE+Student;Web+Developer;Team+Lead+%26+Project+Builder;Hackathon+Winner;Perfectionist;Always+Building+Cool+Stuff)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=9AE6B4&center=true&vCenter=true&width=900&lines=AI+ML+Developer;BTech+CSE+Student;Web+Developer;Team+Lead+%26+Project+Builder;Inlighnx+Hackathon+Winner;Perfectionist;Always+Building+Cool+Stuff)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
