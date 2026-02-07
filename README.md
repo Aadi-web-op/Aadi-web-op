@@ -4,7 +4,7 @@
   <img alt="snake animation" src="https://github.com/Aadi-web-op/Aadi-web-op/blob/output/github-snake.svg">
 </picture>
 
-![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadi-web-op&show_icons=true&theme=tokyonight)
+![Aaradhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadi-web-op&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi-web-op&layout=compact&theme=tokyonight)
 
