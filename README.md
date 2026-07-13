@@ -33,7 +33,8 @@
 <h2 align="center"> 🎧 Currently Vibing To </h2>
 <p align="center">
   <!-- START_SECTION:spotify -->
-  <!-- END_SECTION:spotify -->
+<i>Not playing anything right now...</i>
+<!-- END_SECTION:spotify -->
 </p>
 
 <h2 align="center"> 🚀 Featured Projects </h2>
