@@ -10,10 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Spotify Now Playing
-        uses: kittinan/spotify-github-profile@master
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          theme: default
+          python-version: '3.x'
+
+      - name: Update Spotify in README
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python .github/scripts/update_spotify.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update Spotify Status" || exit 0
+          git push

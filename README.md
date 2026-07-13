@@ -46,7 +46,7 @@
     </td>
     <td align="center" width="50%">
       <h3><a href="https://github.com/Aadi-web-op/Pathify">🗺️ Pathify</a></h3>
-      <p>AI-powered Windows cursor assistant overlay.</p>
+      <p>AI-powered Career Guidance and Follow-up platform.</p>
       <img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" alt="Pathify Stack" height="30px"/>
     </td>
   </tr>
