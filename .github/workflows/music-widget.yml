@@ -1,0 +1,28 @@
+name: Update Music Widget
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-widget:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Music Widget
+        uses: daeun503/profile-music-widget@v2
+        with:
+          playlist_id: 'PLP9g_Sb0KDCM'
+          theme: 'dark'
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: false
+          allow_empty_commit: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
