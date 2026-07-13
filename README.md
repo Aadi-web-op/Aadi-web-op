@@ -22,7 +22,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi-web-op&theme=dracula&hide_border=true&background=0D1117" height="192px" alt="GitHub Streak"/>
   <!-- LeetCode Stats using leetcard.jacoblin.cool -->
-  <img src="https://leetcard.jacoblin.cool/Aadi-web-op?theme=dark&font=JetBrains%20Mono&ext=activity" height="192px" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Aaradhya_Rawat?theme=dark&font=JetBrains%20Mono&ext=activity" height="192px" alt="LeetCode Stats"/>
 </div>
 <br>
 <p align="center">
