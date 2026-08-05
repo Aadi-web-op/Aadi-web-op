@@ -59,9 +59,14 @@ I build at the intersection of **AI/ML and Cybersecurity** — currently reading
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,cpp,mongodb,mysql,tensorflow,aws,docker,git,linux,vscode,figma,postman&theme=dark" alt="Skill Icons"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark&perline=3" alt="Core Languages"/>
+
+<img src="https://skillicons.dev/icons?i=react,java,cpp,tensorflow,mongodb&theme=dark&perline=5" alt="Frameworks and AI"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,aws,docker,git,linux,vscode,figma,postman&theme=dark&perline=9" alt="Tools and Infra"/>
+
 </div>
-<br/>
 
 ##  GitHub & LeetCode Analytics
 
