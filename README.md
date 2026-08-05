@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:14315B,100:0EA5A4&height=200&section=header&text=Radhe Radhe%20🙏%20I'm%20Aaradhya%20Rawat&fontSize=34&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%2B%20Cybersecurity%20Developer%20|%20Krishna-devoted%20🪈&descAlignY=58&descSize=16&descColor=E2E8F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:14315B,100:0EA5A4&height=200&section=header&text=Radhe Radhe%2C%20I%20am%20Aaradhya%20Rawat&fontSize=34&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%2B%20Fullstack%20Developer&descAlignY=58&descSize=16&descColor=E2E8F0" width="100%"/>
 
 <br/>
 
