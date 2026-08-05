@@ -56,12 +56,11 @@ I build at the intersection of **AI/ML and Cybersecurity** — currently reading
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14315B,100:0B1120&height=3&width=900" width="100%"/>
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,java,cpp,docker,git,linux,figma&theme=dark" alt="Skill Icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,cpp,mongodb,mysql,tensorflow,aws,docker,git,linux,vscode,figma,postman&theme=dark" alt="Skill Icons"/>
 </div>
-
 <br/>
 
 ##  GitHub & LeetCode Analytics
