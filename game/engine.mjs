@@ -77,16 +77,18 @@ const issueUrl = (repo, title, body) =>
 
 const BODY = 'Just press "Create". A GitHub Action plays the AI\'s reply and updates the board on the profile within a minute.';
 
+// A board tile that follows the viewer's GitHub theme.
+const tile = (repo, kind, alt) => `<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/${repo}/main/assets/ttt/${kind}-dark.svg"><img src="assets/ttt/${kind}-light.svg" width="88" alt="${alt}"></picture>`;
+
 /** README markup for the board, the status line and the scoreboard. */
 export function renderSection(state, repo) {
   const cells = state.board.map((v, i) => {
     const won = state.winLine?.includes(i);
     if (!v) {
-      const img = `<img src="assets/ttt/empty.svg" width="88" alt="Empty square ${i + 1}">`;
+      const img = tile(repo, 'empty', `Empty square ${i + 1}`);
       return state.status === 'playing' ? `<a href="${issueUrl(repo, `ttt|move|${i}`, BODY)}">${img}</a>` : img;
     }
-    const kind = `${v.toLowerCase()}${won ? '-win' : ''}`;
-    return `<img src="assets/ttt/${kind}.svg" width="88" alt="${v} on square ${i + 1}">`;
+    return tile(repo, `${v.toLowerCase()}${won ? '-win' : ''}`, `${v} on square ${i + 1}`);
   });
   const rows = [0, 3, 6].map((r) => cells.slice(r, r + 3).join('')).join('<br>\n');
 
