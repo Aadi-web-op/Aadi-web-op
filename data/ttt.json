@@ -1,0 +1,29 @@
+{
+  "board": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "status": "playing",
+  "moves": [],
+  "record": {
+    "human": 0,
+    "ai": 1,
+    "draw": 0
+  },
+  "recent": [
+    {
+      "players": [
+        "Aadi-web-op"
+      ],
+      "result": "ai",
+      "at": "2026-10-29T10:10:18.258Z"
+    }
+  ]
+}
