@@ -1,72 +1,17 @@
 {
   "board": [
-    "X",
-    "O",
-    "X",
-    "X",
-    "O",
-    "O",
-    "O",
-    "X",
-    "X"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
-  "status": "draw",
-  "moves": [
-    {
-      "player": "vanshsingla66",
-      "mark": "X",
-      "cell": 0,
-      "at": "2026-10-30T11:49:04.240Z"
-    },
-    {
-      "player": "minimax",
-      "mark": "O",
-      "cell": 4,
-      "at": "2026-10-30T11:49:04.240Z"
-    },
-    {
-      "player": "vanshsingla66",
-      "mark": "X",
-      "cell": 8,
-      "at": "2026-10-30T11:49:32.671Z"
-    },
-    {
-      "player": "minimax",
-      "mark": "O",
-      "cell": 1,
-      "at": "2026-10-30T11:49:32.671Z"
-    },
-    {
-      "player": "vanshsingla66",
-      "mark": "X",
-      "cell": 7,
-      "at": "2026-10-30T11:50:05.101Z"
-    },
-    {
-      "player": "minimax",
-      "mark": "O",
-      "cell": 6,
-      "at": "2026-10-30T11:50:05.101Z"
-    },
-    {
-      "player": "vanshsingla66",
-      "mark": "X",
-      "cell": 2,
-      "at": "2026-10-30T11:51:01.309Z"
-    },
-    {
-      "player": "minimax",
-      "mark": "O",
-      "cell": 5,
-      "at": "2026-10-30T11:51:01.309Z"
-    },
-    {
-      "player": "vanshsingla66",
-      "mark": "X",
-      "cell": 3,
-      "at": "2026-10-30T11:51:28.188Z"
-    }
-  ],
+  "status": "playing",
+  "moves": [],
   "record": {
     "human": 0,
     "ai": 1,
@@ -87,6 +32,5 @@
       "result": "ai",
       "at": "2026-10-29T10:10:18.258Z"
     }
-  ],
-  "winLine": []
+  ]
 }
