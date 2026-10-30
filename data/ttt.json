@@ -3,14 +3,14 @@
     "X",
     "O",
     "X",
-    "",
+    "X",
     "O",
     "O",
     "O",
     "X",
     "X"
   ],
-  "status": "playing",
+  "status": "draw",
   "moves": [
     {
       "player": "vanshsingla66",
@@ -59,14 +59,27 @@
       "mark": "O",
       "cell": 5,
       "at": "2026-10-30T11:51:01.309Z"
+    },
+    {
+      "player": "vanshsingla66",
+      "mark": "X",
+      "cell": 3,
+      "at": "2026-10-30T11:51:28.188Z"
     }
   ],
   "record": {
     "human": 0,
     "ai": 1,
-    "draw": 0
+    "draw": 1
   },
   "recent": [
+    {
+      "players": [
+        "vanshsingla66"
+      ],
+      "result": "draw",
+      "at": "2026-10-30T11:51:28.188Z"
+    },
     {
       "players": [
         "Aadi-web-op"
@@ -74,5 +87,6 @@
       "result": "ai",
       "at": "2026-10-29T10:10:18.258Z"
     }
-  ]
+  ],
+  "winLine": []
 }
