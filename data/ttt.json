@@ -1,14 +1,14 @@
 {
   "board": [
     "X",
-    "",
+    "O",
     "",
     "",
     "O",
     "",
     "",
     "",
-    ""
+    "X"
   ],
   "status": "playing",
   "moves": [
@@ -23,6 +23,18 @@
       "mark": "O",
       "cell": 4,
       "at": "2026-10-30T11:49:04.240Z"
+    },
+    {
+      "player": "vanshsingla66",
+      "mark": "X",
+      "cell": 8,
+      "at": "2026-10-30T11:49:32.671Z"
+    },
+    {
+      "player": "minimax",
+      "mark": "O",
+      "cell": 1,
+      "at": "2026-10-30T11:49:32.671Z"
     }
   ],
   "record": {
