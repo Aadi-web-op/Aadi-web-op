@@ -1,17 +1,30 @@
 {
   "board": [
+    "X",
     "",
     "",
     "",
-    "",
-    "",
+    "O",
     "",
     "",
     "",
     ""
   ],
   "status": "playing",
-  "moves": [],
+  "moves": [
+    {
+      "player": "vanshsingla66",
+      "mark": "X",
+      "cell": 0,
+      "at": "2026-10-30T11:49:04.240Z"
+    },
+    {
+      "player": "minimax",
+      "mark": "O",
+      "cell": 4,
+      "at": "2026-10-30T11:49:04.240Z"
+    }
+  ],
   "record": {
     "human": 0,
     "ai": 1,
