@@ -1,17 +1,30 @@
 {
   "board": [
+    "X",
     "",
     "",
     "",
-    "",
-    "",
+    "O",
     "",
     "",
     "",
     ""
   ],
   "status": "playing",
-  "moves": [],
+  "moves": [
+    {
+      "player": "NANDGOPALSHARMA-29",
+      "mark": "X",
+      "cell": 0,
+      "at": "2026-10-30T19:01:36.207Z"
+    },
+    {
+      "player": "minimax",
+      "mark": "O",
+      "cell": 4,
+      "at": "2026-10-30T19:01:36.207Z"
+    }
+  ],
   "record": {
     "human": 0,
     "ai": 1,
