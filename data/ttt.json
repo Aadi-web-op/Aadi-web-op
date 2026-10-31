@@ -8,9 +8,9 @@
     "X",
     "X",
     "O",
-    ""
+    "X"
   ],
-  "status": "playing",
+  "status": "draw",
   "moves": [
     {
       "player": "NANDGOPALSHARMA-29",
@@ -59,14 +59,28 @@
       "mark": "O",
       "cell": 2,
       "at": "2026-10-31T08:12:49.406Z"
+    },
+    {
+      "player": "Aadi-web-op",
+      "mark": "X",
+      "cell": 8,
+      "at": "2026-10-31T08:13:26.931Z"
     }
   ],
   "record": {
     "human": 0,
     "ai": 1,
-    "draw": 1
+    "draw": 2
   },
   "recent": [
+    {
+      "players": [
+        "NANDGOPALSHARMA-29",
+        "Aadi-web-op"
+      ],
+      "result": "draw",
+      "at": "2026-10-31T08:13:26.931Z"
+    },
     {
       "players": [
         "vanshsingla66"
@@ -81,5 +95,6 @@
       "result": "ai",
       "at": "2026-10-29T10:10:18.258Z"
     }
-  ]
+  ],
+  "winLine": []
 }
