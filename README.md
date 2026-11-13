@@ -88,7 +88,7 @@ Scoreboard: Humans <b>0</b> · AI <b>1</b> · Draws <b>2</b><br>Recent games: @N
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadi-web-op/Aadi-web-op/main/assets/headers/activity-dark.svg"><img src="assets/headers/activity-light.svg" width="100%" alt="10 Recent activity"></picture>
 
 <!-- BEGIN:activity -->
-- <code>Oct 13</code>&nbsp; Open-sourced [DSA-PREP-CONTENT](https://github.com/Aadi-web-op/DSA-PREP-CONTENT)
+- <code>Oct 13</code>&nbsp; Shipped updates to [DSA-PREP-CONTENT](https://github.com/Aadi-web-op/DSA-PREP-CONTENT)
 - <code>Oct 5</code>&nbsp; Open-sourced [AEGIS_Middleware](https://github.com/Aadi-web-op/AEGIS_Middleware)
 - <code>May 6</code>&nbsp; Shipped updates to [Trinetra-IVthSem-Project](https://github.com/Aadi-web-op/Trinetra-IVthSem-Project)
 - <code>Apr 25</code>&nbsp; Shipped updates to [HoneyPot_Portal](https://github.com/Aadi-web-op/HoneyPot_Portal)
