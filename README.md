@@ -88,12 +88,12 @@ Scoreboard: Humans <b>0</b> · AI <b>1</b> · Draws <b>2</b><br>Recent games: @N
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadi-web-op/Aadi-web-op/main/assets/headers/activity-dark.svg"><img src="assets/headers/activity-light.svg" width="100%" alt="10 Recent activity"></picture>
 
 <!-- BEGIN:activity -->
+- <code>Nov 18</code>&nbsp; Shipped updates to [Pathify](https://github.com/Aadi-web-op/Pathify)
 - <code>Nov 16</code>&nbsp; Released `v1.0.2` of [cruiser-releases](https://github.com/Aadi-web-op/cruiser-releases)
 - <code>Nov 16</code>&nbsp; Pushed to [cruiser-releases](https://github.com/Aadi-web-op/cruiser-releases)
 - <code>Oct 13</code>&nbsp; Shipped updates to [DSA-PREP-CONTENT](https://github.com/Aadi-web-op/DSA-PREP-CONTENT)
 - <code>Oct 5</code>&nbsp; Open-sourced [AEGIS_Middleware](https://github.com/Aadi-web-op/AEGIS_Middleware)
 - <code>May 6</code>&nbsp; Shipped updates to [Trinetra-IVthSem-Project](https://github.com/Aadi-web-op/Trinetra-IVthSem-Project)
-- <code>Apr 25</code>&nbsp; Shipped updates to [HoneyPot_Portal](https://github.com/Aadi-web-op/HoneyPot_Portal)
 <!-- END:activity -->
 
 <br>
