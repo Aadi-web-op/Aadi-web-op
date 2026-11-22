@@ -89,8 +89,8 @@ Scoreboard: Humans <b>0</b> · AI <b>1</b> · Draws <b>2</b><br>Recent games: @N
 
 <!-- BEGIN:activity -->
 - <code>Nov 19</code>&nbsp; Pushed to [AEGIS_Middleware](https://github.com/Aadi-web-op/AEGIS_Middleware)
-- <code>Nov 19</code>&nbsp; Shipped updates to [Auto-Attendance](https://github.com/Aadi-web-op/Auto-Attendance)
 - <code>Nov 19</code>&nbsp; Pushed to [Pathify](https://github.com/Aadi-web-op/Pathify)
+- <code>Nov 19</code>&nbsp; Shipped updates to [Auto-Attendance](https://github.com/Aadi-web-op/Auto-Attendance)
 - <code>Nov 16</code>&nbsp; Released `v1.0.2` of [cruiser-releases](https://github.com/Aadi-web-op/cruiser-releases)
 - <code>Nov 16</code>&nbsp; Pushed to [cruiser-releases](https://github.com/Aadi-web-op/cruiser-releases)
 - <code>Oct 5</code>&nbsp; Open-sourced [AEGIS_Middleware](https://github.com/Aadi-web-op/AEGIS_Middleware)
